@@ -1,0 +1,15 @@
+.button-api-frame {
+  font-size: 30px;
+  border-radius: 20px;
+  background-image: linear-gradient(#000000, #434343);
+}
+.download h2 {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+@media (max-width: 540px) {
+  .button-api-frame {
+    width: 80%;
+    height: 6rem;
+  }
+}
